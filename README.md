@@ -5,16 +5,14 @@
 * 英语：六级
 * 电话: 18811577546
 * 邮箱: zhangzhe.bjut@gmail.com
-* GitHub:https://github.com/ZhangzheBJUT/
-* 个人网站: http://zhangzhe.qiniudn.com/
+* GitHub:[https://github.com/ZhangzheBJUT](https://github.com/ZhangzheBJUT)
+* 个人网站: [http://zhangzhe.qiniudn.com](http://zhangzhe.qiniudn.com)
 * 求职意向: 后端开发工程师
 
 ## 教育背景
 
-* 2008.09-2012.07，河北师范大学，软件工程，本科
-
 * 2012.09 - 至今天，北京工业大学，计算机科学与技术，研究生 
-
+* 2008.09-2012.07，河北师范大学，软件工程，本科
 
 ## 技能知识
 
