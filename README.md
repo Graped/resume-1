@@ -1,13 +1,13 @@
 # 张哲
 
 
-* 男，汉族，1988年2月生，现居北京市朝阳区
-* 英语：六级
-* 电话: 18811577546
-* 邮箱: zhangzhe.bjut@gmail.com
-* GitHub:[https://github.com/ZhangzheBJUT](https://github.com/ZhangzheBJUT)
-* 个人网站: [http://zhangzhe.qiniudn.com](http://zhangzhe.qiniudn.com)
-* 求职意向: 后端开发工程师
+* 男，汉族，1988年2月生，应届生，现居北京市朝阳区
+* **英语：**六级
+* **电话：**18811577546
+* **邮箱：** zhangzhe.bjut@gmail.com 
+* **Git Hub ：** [https://github.com/ZhangzheBJUT](https://github.com/ZhangzheBJUT)
+* **个人网站：** [http://zhangzhe.qiniudn.com](http://zhangzhe.qiniudn.com)
+* **求职意向：** 后端开发工程师
 
 ## 教育背景
 
@@ -16,8 +16,12 @@
 
 ## 技能知识
 
-* 编程语言: C++、Golang、Objective-c、Python
-* 开发工具: Linux/OSX、VS2008、Sublime Text、Xcode
+* **编程语言：** C++、Golang、Objective-c、Python
+* **开发工具：** Linux/OSX、VS2008、Sublime Text、Xcode
+* **主要课程：** 面向对象技术、数字图像处理、模式识别、数据挖掘、高级数据库系统、计算机网络体系结构等
+* **研究课题：** 基于MongoDB的数据中心分析与设计
+* **基本技能：** 
+
 
 ## 项目经验
 
@@ -30,8 +34,8 @@
 ## 实习与奖励
 **实习**
 
-* 2010.03-2010.10 在无锡市庞景科技有限公司实习(老师带队），主要负责IOS和Android移动端的开发工作
-* 2013.03-2014.07 在中国船舶电子科技有限公司实习，主要负责后端服务开发和数据库运维管理等工作。
+* 2010.03-2010.10 **无锡市庞景科技有限公司(老师带队）**，主要负责IOS和Android移动端的开发工作。
+* 2013.03-2014.07 **中船电子科技有限公司**，主要负责后端服务开发和数据库运维管理等工作。
 
 
 **奖励** 
@@ -43,7 +47,8 @@
 ## 自我评价
 座右铭：万事尽心尽力，只求无愧我心
 
-## 其它
+## 兴趣爱好
+乒乓球、音乐、旅行等
 
 
 
